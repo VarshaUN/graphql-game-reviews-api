@@ -8,6 +8,8 @@ No database, no auth, no frontend. In-memory data on purpose, so the focus stays
 
 I'd read about GraphQL before but never written one from scratch. Reading docs only gets you so far — you don't actually understand resolver chaining until you hit a query that returns `null` for no obvious reason and have to go figure out why. (Spoiler: I did hit exactly that, see below.)
 
+My Blog to Follow along : https://varshaun.hashnode.dev/my-first-graphql-api-building-a-game-reviews-backend-from-scratch-and-the-stupid-bug-that-cost-me-an-hour
+
 ## Stack
 
 - [Apollo Server](https://www.apollographql.com/docs/apollo-server/) (standalone, v4)
